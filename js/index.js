@@ -39,7 +39,7 @@ function checkAnswer(currentLevel1){
            userClickedPatern = []
            setTimeout(function(){
                nextSequence();
-           },300)
+           },250)
        }
    }
    else
